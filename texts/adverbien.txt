@@ -1,0 +1,13 @@
+
+tagsüber - durante o dia (no sentido do período com sol)
+| tag -> dia
+| über -> preposição sobre. (o alemão permite utilizar algumas preposições espaciais para o sentido de "durante")
+
+----
+
+unter der Woche - durante a semana (no sentido de dias úteis, segunda a sexta)
+| unter -> em baixo / sob / entre (dá uma ideia de "dentro" da semana, "dentro/entre" os limites de 7 dias da semana)
+| der Woche -> dativo de "a semana". Nominativ: "die Woche" -> Dativ: "der Woche"
+
+
+----
