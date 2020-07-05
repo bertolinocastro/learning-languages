@@ -1,7 +1,7 @@
 
 tagsüber - durante o dia (no sentido do período com sol)
 | tag -> dia
-| über -> preposição sobre. (o alemão permite utilizar algumas preposições espaciais para o sentido de "durante")
+| über -> preposição sobre. (o alemão permite utilizar algumas preposições espaciais com o sentido de "durante")
 
 ----
 
