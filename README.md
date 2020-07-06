@@ -30,6 +30,10 @@ On-image Comments: {
   color: #ff914d;
 }
 
+Background: {
+  color: #f1f0f0;
+}
+
 Country's flag of origin language centered at upper-left margin corner
 Country's flag of target language centered at upper-right margin corner
 
