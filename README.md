@@ -1,4 +1,12 @@
 
+## !!! ALERT: this repo is yet in process of creation. Everything is yet being set up. !!!
+
+Here I'll try to show roughly how I do/create my posts on my Instagram page dedicated for my process of learning. Here you will also find the source of texts and images found on my page. They won't match ipisis litteris. They will also not be 100% correct, since I'm not a teacher, just a student.
+
+I'm always open to receive corrections or questions. Please do so! That's part of the learning process and I'll be happy to share knowledge with everyone.
+
+---
+
 Default design setup for canva.com web-application projects:
 
 Text in language of origin: {
