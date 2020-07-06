@@ -17,6 +17,11 @@ Title: {
   color: #737373;
 }
 
+On-image Comments: {
+  font: Oregano;
+  color: #ff914d;
+}
+
 Country's flag of origin language centered at upper-left margin corner
 Country's flag of target language centered at upper-right margin corner
 
@@ -27,6 +32,9 @@ Main text roughly centered inside the full area delimited by margins
 Translation or target text/explanation lower-aligned to the area delimiter by margins. Preference in approximating the right border of this text box to the right end of the whole image (thus leaving free space at the left side)
 
 Pages that are not cover-pages may have just one of the type of texts (origin language or target language, for example)
+
+On-image Comments in the cover-page preferentially should be left aligned with the left upper flag and vertical aligned with the bottom-margin
+On-image Comments in else pages may come everywhere
 
 ---
 
