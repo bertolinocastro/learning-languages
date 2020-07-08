@@ -1,6 +1,7 @@
 
 sich _akk._ mit jmdm/etw _dat._ __verabreden__
-> marcar encontro com alguém/algo
+
+    marcar encontro com alguém/algo
 
 
 ---
